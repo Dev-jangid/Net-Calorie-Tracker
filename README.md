@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> b86f3b9 (Update .gitignore and clean up README.md)
 # Net Calorie Tracker
 
 A comprehensive calorie and activity tracking application built with **Python**, **Streamlit**, and **MongoDB**. This tool helps users track their daily energy balance by calculating BMR, logging food intake, and monitoring exercise burn using standard MET values.
@@ -165,9 +162,3 @@ The application implements a **Dual-Mode selection system** for both food and ac
 
 - **Optimized Search**: To handle 14,000+ records, datasets are filtered using optimized list comprehensions in memory.
 - **Display Limits**: Results are capped (1,000 for Foods, 200 for Activities) to maintain a lag-free Streamlit experience.
-
-<<<<<<< HEAD
-
-=======
----
->>>>>>> b86f3b9 (Update .gitignore and clean up README.md)
