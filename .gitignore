@@ -23,5 +23,9 @@ Thumbs.db
 .vscode/
 .idea/
 
+
+# extra files 
 tests/
 net-calorie-tracker-assignment-details.pdf
+app copy.py
+calorie_service copy.py
