@@ -14,6 +14,10 @@ venv/
 # Project Specific Exclusions
 tests/
 text.md
+net-calorie-tracker-assignment-details.pdf
+**/* copy.py
+**/app copy.py
+**/calorie_service copy.py
 
 # OS specific
 .DS_Store
@@ -22,10 +26,3 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
-
-
-# extra files 
-tests/
-net-calorie-tracker-assignment-details.pdf
-app copy.py
-calorie_service copy.py
