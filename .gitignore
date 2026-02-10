@@ -1,0 +1,27 @@
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# Environment Variables
+.env
+
+# Virtual Environments
+myenv/
+venv/
+.venv/
+
+# Project Specific Exclusions
+tests/
+text.md
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+tests/
+net-calorie-tracker-assignment-details.pdf
